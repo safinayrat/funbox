@@ -1,0 +1,10 @@
+.Product-Wrapper_selectedHover {
+  border: 4px solid #e62e7a;
+}
+.Product-Wrapper_selectedHover:before {
+  border-bottom: 4px solid #e62e7a;
+}
+
+.Product-Weight_selectedHover {
+  background-color: #e62e7a;
+}

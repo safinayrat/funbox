@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Exo2.0-Thin";
+  font-display: fallback;
+  src: url("./fonts/Exo2.0-Thin.otf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

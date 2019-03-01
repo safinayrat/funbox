@@ -1,0 +1,10 @@
+.Product-Wrapper_selected {
+  border: 4px solid #d91667;
+}
+.Product-Wrapper_selected:before {
+  border-bottom: 4px solid #d91667;
+}
+
+.Product-Weight_selected {
+  background-color: #d91667;
+}
