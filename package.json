@@ -6,7 +6,7 @@
   "dependencies": {
     "@bem-react/classname": "^1.4.3",
     "@bem-react/core": "^1.6.3",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
